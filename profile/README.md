@@ -1,1 +1,2 @@
+# WiMoVE - Wireless Mobility through VXLAN EVPN
 WiMoVE is a scalable Wi-Fi System built with BGP EVPN for OpenWRT. WiMove is a bachelor project at the chair [Internet Technologies and Softwarization](https://hpi.de/forschung/fachgebiete/internet-technologien-und-softwarization.html) at [HPI](https://hpi.de/). WiMoVE uses BGP EVPN to build smaller L2 domains in Wi-Fi networks but still provide handover. If you have any questions regarding this project, feel free to drop us a message or open an issue.
